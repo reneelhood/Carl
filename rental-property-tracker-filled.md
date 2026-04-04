@@ -1,4 +1,4 @@
-# Rental Property Tracker - FILLED IN
+# Rental Property Tracker - CORRECTED
 ## Renee's 3 Properties
 
 ---
@@ -7,8 +7,8 @@
 
 | Property Name | Address | Purchase Price | Down Payment | Loan Amount | Interest Rate | Loan Term (years) | Monthly Rent | Vacancy Rate (%) |
 |---------------|---------|----------------|--------------|-------------|---------------|-------------------|--------------|-------------------|
-| Property 1 | 740 Bellevue Ave, Akron, OH 44307 | $125,000 | $25,000 | $100,000 | 7.0% | 30 | $1,225 | 5% |
-| Property 2 | 722 Iona Avenue, Akron, OH 44314 | $125,000 | $25,000 | $100,000 | 7.0% | 30 | $1,250 | 5% |
+| Property 1 | 740 Bellevue Ave, Akron, OH 44307 | $125,000 | $10,000 | $115,000 | 7.0% | 30 | $1,225 | 5% |
+| Property 2 | 722 Iona Avenue, Akron, OH 44314 | $125,000 | $10,000 | $115,000 | 7.0% | 30 | $1,250 | 5% |
 | Property 3 | 7186 SE 124th St, Belleview, FL 34420 | $259,000 | $51,800 | $207,200 | 7.0% | 30 | $1,515 | 5% |
 
 ---
@@ -28,7 +28,7 @@
 | **RENOVATION COSTS** | | | |
 | Repairs (estimate) | $2,000 | $2,000 | $5,000 |
 | Appliances | $1,500 | $1,500 | $2,000 |
-| **TOTAL CLOSING + RENOVATION** | $134,222.10 | $134,222.10 | $274,772.10 |
+| **TOTAL CLOSING + RENOVATION** | $133,222.10 | $133,222.10 | $274,772.10 |
 
 ---
 
@@ -37,7 +37,7 @@
 | Expense Category | Property 1 | Property 2 | Property 3 |
 |------------------|------------|------------|------------|
 | **FIXED COSTS** | | | |
-| Mortgage (P&I) - ESTIMATE | $665 | $665 | $1,380 |
+| Mortgage (P&I) - ESTIMATE | $765 | $765 | $1,380 |
 | Property Taxes (in mortgage) | $0 | $0 | $0 |
 | Insurance (in mortgage) | $0 | $0 | $0 |
 | HOA Fees | $0 | $0 | $0 |
@@ -47,7 +47,7 @@
 | CapEx (Reserve 8%) | $98 | $100 | $121 |
 | Utilities (if paid) | $0 | $0 | $0 |
 | Lawn/Snow Removal | $50 | $50 | $75 |
-| **MONTHLY TOTAL** | $913 | $915 | $1,726 |
+| **MONTHLY TOTAL** | $1,013 | $1,015 | $1,726 |
 
 *Note: Property management is FREE for 1 year on all properties*
 
@@ -64,9 +64,9 @@
 | Vacancy Loss (5%) | $61 | $63 | $76 |
 | **ADJUSTED GROSS** | $1,164 | $1,188 | $1,439 |
 | **EXPENSES** | | | |
-| Monthly Expenses | $913 | $915 | $1,726 |
-| **MONTHLY CASH FLOW** | $251 | $273 | -$287 |
-| **ANNUAL CASH FLOW** | $3,012 | $3,276 | -$3,444 |
+| Monthly Expenses | $1,013 | $1,015 | $1,726 |
+| **MONTHLY CASH FLOW** | $151 | $173 | -$287 |
+| **ANNUAL CASH FLOW** | $1,812 | $2,076 | -$3,444 |
 
 ---
 
@@ -75,23 +75,20 @@
 | Metric | Property 1 | Property 2 | Property 3 |
 |--------|------------|------------|------------|
 | **INVESTMENT** | | | |
-| Total Cash Invested | $27,222 | $27,222 | $56,772 |
+| Total Cash Invested | $12,222 | $12,222 | $56,772 |
 | **RETURNS** | | | |
-| Annual Cash Flow | $3,012 | $3,276 | -$3,444 |
-| Cash-on-Cash Return | 11.1% | 12.0% | -6.1% |
-| Cap Rate | 5.5% | 5.7% | 2.1% |
+| Annual Cash Flow | $1,812 | $2,076 | -$3,444 |
+| Cash-on-Cash Return | 14.8% | 17.0% | -6.1% |
+| Cap Rate | 5.9% | 6.1% | 2.1% |
 | 1% Rule | 0.98% | 1.0% | 0.58% |
 
 ---
 
 ## NOTES
 
+- Ohio properties: $10k down payment (corrected)
 - Property 3 is currently cash-flow negative ($287/month)
-- Properties 1 & 2 are solid positive cash flow
-- Property 3 should improve when:
-  - Appreciation kicks in
-  - Rent increases
-  - Management starts (but you'll have expenses)
-- Consider raising rent on Property 3 or refinancing
+- Properties 1 & 2 now showing even better returns with lower down payment
+- Property 3 should improve when: appreciation, rent increases, or refinancing
 
 *Updated by Carl - 2026-04-04*
